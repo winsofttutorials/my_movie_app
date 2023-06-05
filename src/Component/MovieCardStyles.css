@@ -1,0 +1,30 @@
+.movieYear {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  font-size: 14px;
+}
+
+.movieDetail {
+  background-color: #3d3c3c;
+  padding: 20px 10px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  max-height: 100px;
+  text-align: left;
+}
+
+.movieDetail span {
+  font-size: 18px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #fff;
+}
+
+.movieDetail h2 {
+  font-size: 18px;
+  max-width: 250px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: papayawhip;
+}
